@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-flask
+Django
 pytest
 =======
-flask
+django
 pytest
->>>>>>> 9fe40b481577203d7e9550f3a909879fe36c46c3
+=====
 gunicorn
